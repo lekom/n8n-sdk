@@ -1,6 +1,6 @@
 # n8n SDK for TypeScript
 
-A comprehensive, production-ready TypeScript SDK for the [n8n](https://n8n.io) workflow automation platform API.
+A comprehensive, TypeScript SDK for the [n8n](https://n8n.io) workflow automation platform API.
 
 [![npm version](https://badge.fury.io/js/n8n-sdk.svg)](https://www.npmjs.com/package/n8n-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
